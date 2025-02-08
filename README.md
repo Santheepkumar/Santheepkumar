@@ -18,7 +18,7 @@ I'm a software engineer, specializing in building scalable backend applications,
 ⚙️  VCS:   ![Static Badge](https://img.shields.io/badge/Git-yellow?logo=git)
  ![Static Badge](https://img.shields.io/badge/GitHub-black?logo=GitHub) ![Static Badge](https://img.shields.io/badge/Bitbucket-blue?logo=Bitbucket)
 
-🔧  Dev tools:  ![Static Badge](https://img.shields.io/badge/Nvim-darkblue?logo=neovim) ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-blue) ![Static Badge](https://img.shields.io/badge/Lazygit-black?logo=refinedgithub)
+🔧  Dev tools:  ![Static Badge](https://img.shields.io/badge/Nvim-white?logo=neovim) ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-blue) ![Static Badge](https://img.shields.io/badge/Lazygit-black?logo=refinedgithub)
 
 📩 Messaging & Queuing: ![Static Badge](https://img.shields.io/badge/Redis-orange?logo=redis) ![Static Badge](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka) ![Static Badge](https://img.shields.io/badge/Rabbitmq-white?logo=rabbitmq)
 
