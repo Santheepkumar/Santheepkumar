@@ -4,7 +4,7 @@ I'm a software engineer, specializing in building scalable backend applications,
 
 🛠  Tech Stack
 
-🗄  Backend:  ![Static Badge](https://img.shields.io/badge/GoLang-black?logo=go) ![Static Badge](https://img.shields.io/badge/Express.js-black?logo=express) ![Static Badge](https://img.shields.io/badge/Nest.js-brown?logo=nestjs) ![Static Badge](https://img.shields.io/badge/Fastify-black?logo=fastify)
+🗄  Backend:  ![Static Badge](https://img.shields.io/badge/GoLang-darkblue?logo=go) ![Static Badge](https://img.shields.io/badge/Express.js-gray?logo=express) ![Static Badge](https://img.shields.io/badge/Nest.js-brown?logo=nestjs) ![Static Badge](https://img.shields.io/badge/Fastify-black?logo=fastify)
 
 🛢  Database:  ![Static Badge](https://img.shields.io/badge/Mongo%20DB-green?logo=mongodb) ![Static Badge](https://img.shields.io/badge/Postgresql-white?logo=postgresql)
 
