@@ -15,7 +15,7 @@ I'm a software engineer, specializing in building scalable backend applications,
 💄  Styles:  ![Static Badge](https://img.shields.io/badge/CSS-blue?logo=css) ![Static Badge](https://img.shields.io/badge/SASS-pink?logo=sass)
  ![Static Badge](https://img.shields.io/badge/TailwindCSS-blue?logo=tailwindcss) ![Static Badge](https://img.shields.io/badge/MUI-green?logo=mui)
 
-⚙️  VCS:   ![Static Badge](https://img.shields.io/badge/Git-black?logo=git)
+⚙️  VCS:   ![Static Badge](https://img.shields.io/badge/Git-yellow?logo=git)
  ![Static Badge](https://img.shields.io/badge/GitHub-black?logo=GitHub) ![Static Badge](https://img.shields.io/badge/Bitbucket-blue?logo=Bitbucket)
 
 🔧  Dev tools:  ![Static Badge](https://img.shields.io/badge/Nvim-darkblue?logo=neovim) ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-blue) ![Static Badge](https://img.shields.io/badge/Lazygit-black?logo=refinedgithub)
