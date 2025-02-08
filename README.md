@@ -6,7 +6,7 @@ I'm a software engineer, specializing in building scalable backend applications,
 
 🗄  Backend:  ![Static Badge](https://img.shields.io/badge/GoLang-black?logo=go) ![Static Badge](https://img.shields.io/badge/Express.js-black?logo=express) ![Static Badge](https://img.shields.io/badge/Nest.js-brown?logo=nestjs) ![Static Badge](https://img.shields.io/badge/Fastify-black?logo=fastify)
 
-🛢  Database:  ![Static Badge](https://img.shields.io/badge/Mongo%20DB-green?logo=mongodb) ![Static Badge](https://img.shields.io/badge/Postgresql-black?logo=postgresql)
+🛢  Database:  ![Static Badge](https://img.shields.io/badge/Mongo%20DB-green?logo=mongodb) ![Static Badge](https://img.shields.io/badge/Postgresql-white?logo=postgresql)
 
 🌐  Frontend: ![Static Badge](https://img.shields.io/badge/React-blue?logo=react) ![Static Badge](https://img.shields.io/badge/Next.js-black?logo=next.js) ![Static Badge](https://img.shields.io/badge/Alpine.js-white?logo=alpine.js) ![Static Badge](https://img.shields.io/badge/Svelte-orange?logo=svelte)
 
